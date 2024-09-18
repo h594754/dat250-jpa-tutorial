@@ -8,6 +8,10 @@ Had some issues with imports in the start but that was solved by building the gr
 
 ## Link to code
 https://github.com/h594754/dat250-jpa-tutorial/
+<br>
+Link straight to changed code
+<br>
+https://github.com/h594754/dat250-jpa-tutorial/tree/master/src/main/java/no/hvl/dat250/jpa/tutorial/creditcards
 
 
 ## DB
